@@ -13,8 +13,7 @@ from config import (
 )
 
 
-"https://www.cnblogs.com/darlingchen/p/16241534.html?utm_source=chatgpt.com"
-"https://www.cnblogs.com/Uni-Hoang/p/13204907.html?utm_source=chatgpt.com"
+
 
 from state import TestCaseGenerationState
 from utils import parse_json_output
